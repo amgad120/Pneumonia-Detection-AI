@@ -31,3 +31,14 @@ This project aims to detect pneumonia from chest X-ray images using multiple dee
 ## Best Model
 
 ResNet50 achieved the best performance.
+
+## Download Trained Models
+
+Due to GitHub file size limitations, trained models are hosted on Google Drive.
+
+🔗 [Download Models Here](https://drive.google.com/drive/folders/1zT9bZ_J4x2nHAcTbvToT0oUMlBDDSb98?usp=sharing)
+
+Includes:
+- ResNet50 (.keras)
+- Custom CNN (.keras)
+- MobileNetV2 (.keras)
