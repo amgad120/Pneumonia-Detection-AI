@@ -1,4 +1,4 @@
-#Pneumonia-Detection-AI
+# Pneumonia-Detection-AI
 
 Chest X-ray classification system for detecting pneumonia using Deep Learning and Transfer Learning models.
 
